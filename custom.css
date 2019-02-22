@@ -1,0 +1,16 @@
+.masthead{
+    background: white;
+}
+.list-inline-item{
+    margin-top: 50px;
+    font-size: 30px;
+    background: #1d809f !important;
+    width: 100px;
+    line-height: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
+.mr-3, .mx-3{
+    margin-right: 0 !important;
+}
